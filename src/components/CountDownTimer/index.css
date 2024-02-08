@@ -1,0 +1,53 @@
+.timer-container {
+  background-color: rgb(101, 101, 171);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.timer-heading {
+  display: flex;
+  width: 500px;
+  text-align: center;
+  justify-content: space-between;
+}
+.input-timer {
+  outline: none;
+  border: none;
+  width: 220px;
+  text-align: center;
+  font-size: 25px;
+  color: whitesmoke;
+  background-color: rgb(101, 101, 171);
+}
+
+.start-button {
+  background-color: blue;
+  padding: 10px;
+  height: 35px;
+  width: 70px;
+  padding-bottom: 20px;
+  border-radius: 5px;
+  margin: 20px;
+}
+.reset-button1 {
+  background-color: red;
+  padding: 10px;
+  height: 35px;
+  width: 70px;
+  border-radius: 5px;
+  margin: 20px;
+}
+.pause-button {
+  padding: 10px;
+  height: 35px;
+  width: 70px;
+  background-color: rgb(124, 14, 93);
+  border-radius: 5px;
+  margin: 20px;
+}
+span {
+  font-size: 25px;
+  color: white;
+}

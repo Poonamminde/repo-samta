@@ -1,0 +1,9 @@
+.list-container {
+  background-color: rgba(0, 0, 0, 0.816);
+  margin: 10px;
+  padding: 25px;
+  box-sizing: border-box;
+  width: 600px;
+  height: 230px;
+  border-radius: 15px;
+}

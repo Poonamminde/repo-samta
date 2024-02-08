@@ -1,0 +1,42 @@
+.user-container {
+  background-color: rgb(210, 182, 237);
+  padding: 50px;
+}
+.button {
+  height: 35px;
+  padding: 5px 35px 5px 3gi5px;
+  text-align: center;
+  margin: 15px;
+  border-radius: 10px;
+}
+.input-search {
+  height: 30px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  width: 250px;
+}
+.search-button {
+  height: 35px;
+  background-color: blueviolet;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  color: white;
+}
+.search-button:hover {
+  background-color: rgb(115, 94, 135);
+}
+.sort-button {
+  background-color: pink;
+}
+.history-button {
+  background-color: greenyellow;
+}
+.reset-button {
+  background-color: red;
+  padding-right: 25px;
+}
+li {
+  color: white;
+  text-align: center;
+  margin: 0px 300px 0px 300px;
+}
